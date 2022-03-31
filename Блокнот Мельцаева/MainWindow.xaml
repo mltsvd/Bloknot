@@ -1,0 +1,67 @@
+﻿<Window x:Class="Notebook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Notebook"
+        mc:Ignorable="d"
+        Title="Блокнот" Height="450" Width="800" Closing="Window_Closing" Loaded="Window_Loaded">
+    <Grid>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="207*"/>
+        </Grid.RowDefinitions>
+        <Menu VerticalAlignment="Top" Height="18">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Создать" Click="Создать_Click"></MenuItem>
+                <MenuItem Header="Новое окно" Click="Новое_окно_Click"></MenuItem>
+                <MenuItem Header="Открыть..." Click="Открыть_Click"></MenuItem>
+                <MenuItem Header="Сохранить" Click="Save_Click"></MenuItem>
+                <MenuItem Header="Сохранить как..." Click="SaveAs_Click"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Выход" Click="Exit_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Правка">
+                <MenuItem Header="Отменить" Click="Cancel_Click"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Вырезать" Click="Cut_Click"></MenuItem>
+                <MenuItem Header="Копировать" Click="Copy_Click"></MenuItem>
+                <MenuItem Header="Вставить" Click="Paste_Click"></MenuItem>
+                <MenuItem Header="Удалить" Click="Delete_Click"></MenuItem>
+                <Separator></Separator>
+                <MenuItem x:Name="find" Header="Найти..." Click="Find_Click" IsEnabled="False"/>
+                <MenuItem Header="Заменить..." Click="Replace_Click"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Выделить всё" Click="AllSelect_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Формат">
+                <MenuItem Header="Шрифт">
+                    <MenuItem Header="Обычный" Click="Standart_Click"></MenuItem>
+                    <MenuItem Header="Курсив" Click="Italic_Click"></MenuItem>
+                    <MenuItem Header="Жирный" Click="Fat_Click"></MenuItem>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Вид">
+                <MenuItem Header="Строка состояния" Click="StatusBar_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Справка">
+                <MenuItem Header="О программе" Click="О_программе_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <TextBox VerticalAlignment="Stretch" Margin="0,20,0,29" Grid.RowSpan="2"/>
+        <StatusBar x:Name="status" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Grid.Row="1" Height="22" Background="#FFECECEC">
+            <TextBlock x:Name="time" Text="0:0" ToolTip="Текущее время"></TextBlock>
+            <Separator></Separator>
+            <TextBlock x:Name="data" Text="0.0.0" ToolTip="Текущая дата"></TextBlock>
+        </StatusBar>
+        <RichTextBox x:Name="richtextbox" HorizontalAlignment="Stretch" Margin="0,0,0,22" Grid.Row="1" VerticalAlignment="Stretch" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible" TextChanged="richtextbox_TextChanged" SelectionBrush="#FF3D89C5" BorderBrush="{x:Null}">
+            <RichTextBox.Resources>
+                <Style TargetType="Paragraph">
+                    <Setter Property="Margin" Value="0" />
+                </Style>
+            </RichTextBox.Resources>
+        </RichTextBox>
+
+    </Grid>
+</Window>

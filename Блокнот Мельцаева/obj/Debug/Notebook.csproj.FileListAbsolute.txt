@@ -1,0 +1,109 @@
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\bin\Debug\Notebook.exe.config
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\bin\Debug\Notebook.exe
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\bin\Debug\Notebook.pdb
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\obj\Debug\Notebook.csproj.AssemblyReference.cache
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\obj\Debug\MainWindow.g.cs
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\obj\Debug\App.g.cs
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\obj\Debug\Notebook_MarkupCompile.cache
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\obj\Debug\Notebook_MarkupCompile.lref
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\obj\Debug\MainWindow.baml
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\obj\Debug\Notebook.g.resources
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\obj\Debug\Notebook.Properties.Resources.resources
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\obj\Debug\Notebook.csproj.GenerateResource.cache
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\obj\Debug\Notebook.exe
+C:\Users\ИСП-31\Desktop\Мельцаева\Notebook\obj\Debug\Notebook.pdb
+D:\РПМ\Notebook\obj\Debug\Notebook.csproj.AssemblyReference.cache
+D:\РПМ\Notebook\obj\Debug\Notebook.csproj.SuggestedBindingRedirects.cache
+D:\РПМ\Notebook\obj\Debug\MainWindow.g.cs
+D:\РПМ\Notebook\obj\Debug\App.g.cs
+D:\РПМ\Notebook\obj\Debug\Notebook_MarkupCompile.cache
+D:\РПМ\Notebook\obj\Debug\Notebook_MarkupCompile.lref
+D:\РПМ\Notebook\obj\Debug\Notebook.exe
+D:\РПМ\Notebook\obj\Debug\Notebook.pdb
+D:\РПМ\Notebook\bin\Debug\Notebook.exe.config
+D:\РПМ\Notebook\bin\Debug\Notebook.exe
+D:\РПМ\Notebook\bin\Debug\Notebook.pdb
+D:\РПМ\Notebook\obj\Debug\MainWindow.baml
+D:\РПМ\Notebook\obj\Debug\Notebook.g.resources
+D:\РПМ\Notebook\obj\Debug\Notebook.Properties.Resources.resources
+D:\РПМ\Notebook\obj\Debug\Notebook.csproj.GenerateResource.cache
+D:\РПМ\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-31\Desktop\Notebook\bin\Debug\Notebook.exe.config
+C:\Users\ИСП-31\Desktop\Notebook\bin\Debug\Notebook.exe
+C:\Users\ИСП-31\Desktop\Notebook\bin\Debug\Notebook.pdb
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Notebook.csproj.AssemblyReference.cache
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\MainWindow.g.cs
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\App.g.cs
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Notebook_MarkupCompile.cache
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Notebook_MarkupCompile.lref
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\MainWindow.baml
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Notebook.g.resources
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Notebook.Properties.Resources.resources
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Notebook.csproj.GenerateResource.cache
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Notebook.exe
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Notebook.pdb
+D:\БЛОКНОТ\Notebook\bin\Debug\Notebook.exe.config
+D:\БЛОКНОТ\Notebook\bin\Debug\Notebook.exe
+D:\БЛОКНОТ\Notebook\bin\Debug\Notebook.pdb
+D:\БЛОКНОТ\Notebook\obj\Debug\Notebook.csproj.AssemblyReference.cache
+D:\БЛОКНОТ\Notebook\obj\Debug\Notebook.csproj.SuggestedBindingRedirects.cache
+D:\БЛОКНОТ\Notebook\obj\Debug\MainWindow.g.cs
+D:\БЛОКНОТ\Notebook\obj\Debug\App.g.cs
+D:\БЛОКНОТ\Notebook\obj\Debug\Notebook_MarkupCompile.cache
+D:\БЛОКНОТ\Notebook\obj\Debug\Notebook_MarkupCompile.lref
+D:\БЛОКНОТ\Notebook\obj\Debug\MainWindow.baml
+D:\БЛОКНОТ\Notebook\obj\Debug\Notebook.g.resources
+D:\БЛОКНОТ\Notebook\obj\Debug\Notebook.Properties.Resources.resources
+D:\БЛОКНОТ\Notebook\obj\Debug\Notebook.csproj.GenerateResource.cache
+D:\БЛОКНОТ\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+D:\БЛОКНОТ\Notebook\obj\Debug\Notebook.exe
+D:\БЛОКНОТ\Notebook\obj\Debug\Notebook.pdb
+C:\Users\mltsv\Desktop\Notebook\bin\Debug\Notebook.exe.config
+C:\Users\mltsv\Desktop\Notebook\bin\Debug\Notebook.exe
+C:\Users\mltsv\Desktop\Notebook\bin\Debug\Notebook.pdb
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Notebook.csproj.AssemblyReference.cache
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Notebook.csproj.SuggestedBindingRedirects.cache
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Find.g.cs
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\MainWindow.g.cs
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\App.g.cs
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Notebook_MarkupCompile.cache
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Notebook_MarkupCompile.lref
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\MainWindow.baml
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Find.baml
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Notebook.g.resources
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Notebook.Properties.Resources.resources
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Notebook.csproj.GenerateResource.cache
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Notebook.exe
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Notebook.pdb
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Replace.g.cs
+C:\Users\mltsv\Desktop\Notebook\obj\Debug\Replace.baml
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Find.g.cs
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Replace.g.cs
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Find.baml
+C:\Users\ИСП-31\Desktop\Notebook\obj\Debug\Replace.baml
+D:\БЛОКНОТ\Notebook\obj\Debug\Find.g.cs
+D:\БЛОКНОТ\Notebook\obj\Debug\Replace.g.cs
+D:\БЛОКНОТ\Notebook\obj\Debug\Find.baml
+D:\БЛОКНОТ\Notebook\obj\Debug\Replace.baml
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\bin\Debug\Notebook.exe.config
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\bin\Debug\Notebook.exe
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\bin\Debug\Notebook.pdb
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Notebook.csproj.AssemblyReference.cache
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Find.g.cs
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\MainWindow.g.cs
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Replace.g.cs
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\App.g.cs
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Notebook_MarkupCompile.cache
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Notebook_MarkupCompile.lref
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Find.baml
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\MainWindow.baml
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Replace.baml
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Notebook.g.resources
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Notebook.Properties.Resources.resources
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Notebook.csproj.GenerateResource.cache
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Notebook.exe
+C:\Users\ИСП-31\Desktop\Блокнот Мельцаева\obj\Debug\Notebook.pdb
